@@ -21,7 +21,7 @@ export default function Hero() {
         </h1>
 
         <p className="hero__subtitle reveal reveal--delay-2">
-          Twardy ziarno. Miękka dusza.
+          Twarde ziarno. Miękka dusza.
           <span className="hero__subtitle-it">Grano duro. Anima italiana.</span>
         </p>
 
